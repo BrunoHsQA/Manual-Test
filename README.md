@@ -18,8 +18,10 @@ O objetivo deste repositório é pra uma melhor organização dos meus testes ma
 ## 📎 Descrição
 ============
 
-O projeto foi criado para o usuário anotar as tarefas, e quando completá-las, a mesma será marcada em verde.
-Qualquer tarefa pode ser escrita, dependerá da imaginação do usuário.
+Como quero ser um profissional de QA, organização são basicamente cruciais, portanto este repositório serve pra organizar e 
+<br> deixar que outros vejam meus testes também.
+Eu gosto muito de testes automatizados, mas os testes manuais também são importantes;
+Meu foco é aprender tudo sobre Testes Baseados em Defeitos!
 
 ## 🌎 Licença
 ============
